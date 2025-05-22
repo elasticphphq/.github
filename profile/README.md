@@ -10,7 +10,7 @@ We’re building robust and modular solutions written in Go and PHP to support:
 
 ### 🌍 Projects
 
-- [`elasticphp-agent`](https://github.com/elasticphphq/elasticphp-agent) – A FastCGI-based agent for collecting metrics and controlling PHP-FPM behavior
+- [`elasticphp-agent`](https://github.com/elasticphphq/agent) – A FastCGI-based agent for collecting metrics and controlling PHP-FPM behavior
 - [`fcgx`](https://github.com/elasticphphq/fcgx) – Lightweight FastCGI client for Go, tailored for PHP-FPM integrations
 
 ### 💡 Contributing
